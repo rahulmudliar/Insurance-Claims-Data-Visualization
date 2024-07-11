@@ -21,13 +21,9 @@ This project involves the visualization of four years of insurance claims data u
 - **Excel**: For data cleaning and preparation.
 
 ## Visualizations
-![Claims Overview Dashboard](path/to/claims-overview-dashboard.png)
+![Claims Overview Dashboard](https://github.com/rahulmudliar/Tableau-Dashboard/blob/main/Tableau_Dashboard_15.png)
 **Claims Overview Dashboard**: Provides an overall summary of the insurance claims data.
-
-![Claims by Category](path/to/claims-by-category.png)
 **Claims by Category**: Breakdown of claims by various categories such as type, amount, and time period.
-
-![Trends and Patterns](path/to/trends-and-patterns.png)
 **Trends and Patterns**: Visualizations showing trends and patterns over the four-year period.
 
 ## Usage
